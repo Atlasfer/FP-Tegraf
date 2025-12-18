@@ -42,6 +42,7 @@ Program akan menghasilkan output visualisasi grafis berupa:
 1. Jalankan kode python Largest Monotonically Increasing Subsequence
 2. Masukkan urutan angka
 3. Program menampillkan hasil analisis L.M.I.S dari urutan angka yang dberikan
+4. Program menampilkan visualisasi tree L.M.I.S menggunakan graphviz
 
 ### Input
 Urutan angka yang dipisahkan oleh spasi atau koma<br>
@@ -52,3 +53,4 @@ Contoh : 4, 1, 13, 7, 0, 2, 8, 11, 3
 - Panjang L.M.I.S. berupa nilai numerik panjang barisan terpanjang
 - Jumlah Variasi dari kombinasi jalur unik yang ditemukan
 - List detail dari setiap variasi yang ditemukan
+- Visual tree berupa file .png dari LMIS yang dimasukkan

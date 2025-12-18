@@ -126,5 +126,5 @@ if __name__ == "__main__":
     # Visuaisasi tree
     dot, _, _ = visualize_LMIS_tree(arr)
     dot.render('LMIS_tree', format='png', cleanup=True, view=True)
-    print("\nVisuaLMISasi tree telah disimpan sebagai 'LMIS_tree.png'")
+    print("\nVisualiasi tree telah disimpan sebagai 'LMIS_tree.png'")
     
