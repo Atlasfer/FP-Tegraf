@@ -44,7 +44,7 @@ Program akan menghasilkan output visualisasi grafis berupa:
 3. Program menampillkan hasil analisis L.M.I.S dari urutan angka yang dberikan
 
 ### Input
-Urutan angka yang dipisahkan oleh spasi atau koma
+Urutan angka yang dipisahkan oleh spasi atau koma<br>
 Contoh : 4, 1, 13, 7, 0, 2, 8, 11, 3
 
 ### Output
